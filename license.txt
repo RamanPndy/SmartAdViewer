@@ -1,0 +1,130 @@
+
+Copyright (C) 2015   Kanopy Techno Solutions Pvt. Ltd.
+www.kanopytech.com
+
+KANOPY TECHNO SOLUTIONS SOFTWARE LICENSE AGREEMENT
+
+BY USING THE SOFTWARE, YOU ARE ACCEPTING THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT. DO NOT USE THIS SOFTWARE UNTIL YOU HAVE CAREFULLY READ AND AGREED TO THE FOLLOWING TERMS AND CONDITIONS. IF YOU DO NOT ACCEPT THESE TERMS, YOU MUST REMOVE ALL FILES RELATING TO THE SOFTWARE PROVIDED TO YOU.
+SOFTWARE LICENSE TERMS
+
+The Software Product is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The Software Product is licensed, not sold.
+
+1. GRANT OF LICENSE
+Kanopy Techno Solutions grants you a non-exclusive, non-transferable right to use one copy of the Software Product. "Use" means storing, loading, installing, executing or displaying the Software Product.
+If you have acquired this License Agreement with the demo version of Software Product, you are granted the right to use unlimited number of copies in the manner specified above. Also Kanopy Techno Solutions allows redistribution of the demo version, provided you do not infringe the copyright.
+Single User License allows clients to install the software product on exactly one (1) computer system. Single-User License does NOT allow to make use of the software through a corporate network.
+Corporate License allows a single company to install the software product on an unlimited number of machines within that corporation. All machines must be owned, leased, or used for the purpose of the purchasing company.
+
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS
+i) Not for Resale Software.
+You may not resell, or otherwise transfer for value, the Software Product.
+ii) Rental.
+You may not rent, lease, or lend the Software Product.
+iii) Limitations on Reverse Engineering, Decompilation, and Disassembly.
+You may not reverse engineer, decompile, or disassemble the Software Product, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+iv) Proprietary notices.
+You may not remove any proprietary notices or labels on the Software Product.
+v) Termination.
+Kanopy Techno Solutions may terminate your license upon notice for failure to comply with any of these License Terms. In such event, you must immediately destroy all copies of the Software Product and all of its portions in any form.
+vi) Support Services.
+Kanopy Techno Solutions provides you with unlimited email support services related to the Software Product. Any supplemental software code and supporting materials provided to you as part of support services provided by Kanopy Techno Solutions for the Software Product shall be considered part of the Software Product and subject to the terms and conditions of this License Agreement.
+
+3. COPYRIGHT
+All title and copyrights in and to the Software Product and any copies of the Software Product are owned by Kanopy Techno Solutions. The Software Product is protected by copyright laws and international treaty provisions. Therefore, you must treat the Software Product like any other copyrighted material except that you may install the Software Product on a single computer provided you keep the original solely for backup or archival purposes.
+4. DISCLAIMER OF WARRANTY
+The Software Product is provided on an "AS IS" basis, without warranty of any kind, including without limitation the warranties of merchantability, fitness for a particular purpose and non-infringement. The entire risk as to the quality and performance of the Software Product is borne by you. Should the Software prove defective, you and not Kanopy Techno Solutions assume the entire cost of any service and repair. This disclaimer of warranty constitutes an essential part of the agreement.
+
+Software Development and Technical Support Agreement
+
+This agreement, entered on 19th September, 2015, is between Tushar Rai (From hereinafter referred to as the SELLER) and Kanopy Techno Solutions Private Limited (From hereinafter referred to as the DEVELOPER).
+1. Technical Support Services:
+[a.] In accordance with the terms of this Development and Technical Support Agreement, the DEVELOPER will provide Technical support (which includes completely functional installation, error-correction services and updates (addition of Safelists, Security and improving the performance)) for each LICENSE of the SOFTWARE, sold by the SELLER, required by the Customer (hereinafter referred to as CLIENT, to whom the SELLER has sold a 30-Day Trail LICENSE or both the LICENSES).
+
+[b.] The DEVELOPER will respond to the CLIENT’s call for support (after being notified about the call for support from the SELLER) within one (1) business day. 
+
+[c.] Each CLIENT will be entitled to packaged, thirty (30) days for the 30-DAY Trail LICENSE or two years for the Lifetime LICENSE, respectively, Technical Support from the date of FSI.
+
+[d.] Each CLIENT will be entitled to Updates to the SOFTWARE for the Lifetime of the SALE SITE.
+
+4. Warranty and Remedies 
+
+The DEVELOPER warrants that it will use REASONABLE EFFORTS (defined in Supplement A) to perform the technical support services to conform to generally accepted industry standards provided that: 
+
+[a.] The SOFTWARE has not been modified, changed, or altered by anyone other than the DEVELOPER;
+
+[b.] The operating environment, including both hardware and systems software, meets the SOFTWARE’s minimum computer system requirement specifications (defined in Supplement A);
+
+[c.] The computer hardware is in good operational order and is installed in a suitable operating environment; 
+
+
+5. SELLER Support:
+
+The level of support, liable to the CLIENT, that the DEVELOPER can provide is dependent upon the cooperation of SELLER and the quantity of information that SELLER can provide. If the DEVELOPER cannot reproduce a problem or if the SELLER cannot successfully gather adequate troubleshooting information, the DEVELOPER may need temporary login access on the CLIENT’s system to identify and address the problem
+
+SELLER ACKNOWLEDGES THAT CLIENT HAS READ EXCERPTS, PERTAINING TO HIM/HER, OF THIS DEVELOPMENT AND TECHNICAL SUPPORT AGREEMENT, UNDERSTANDS IT, AND AGREES TO BE LEGALLY BOUND BY IT.
+
+Supplement A
+
+Coverage of Development and Technical Support Agreement
+
+The SOFTWARE covered by this Development and Technical Support Agreement is as follows:
+[a.]	SMART AD VIEWER Version 1.x offered by DEVELOPER as part of the Commercial Use License for SMART AD VIEWER
+[b.]	Only an email account offered by GMAIL (www.gmail.com) is supported in SMART AD VIEWER Version 1.x
+[c.]	An Internet connection having a minimum speed of  two megabits per second (2 Mbps) is a minimum requirement for downloading the installation file and using SMART AD VIEWER Version 1.x
+[d.]	SMART AD VIEWER Version 1.x for successful installation and operation requires a minimum computer system requirement of:
+-	A Dual-Core Processor where Minimum Processor Speed should be Two (2.0) Gigahertz,
+-	Two (2) Gigabytes of DDR3 RAM,
+-	Required Free Disk Space for installation should be Fifty (50) Megabytes,
+-	Required Operating System Installed on the Computer should be Windows 7 or later versions of Microsoft Windows Operating System.
+[e.]	SMART AD VIEWER in order to operate requires the user to turn off the 2-Step Verification feature in the ‘My Account’ Section of their Google Account.
+[f.]	SMART AD VIEWER allows the user to add up to ten (10) of their GMAIL Accounts.
+[g.]	SMART AD VIEWER is an automatic email link display tool distributed computing environment that enables users to view the credit earning safelist advertisement link, sent to the users’ email inbox, via the built-in browser.
+[h.]	SMART AD VIEWER also allows the user to enable or disable the deletion of the emails from which the displayed credit earning link has been extracted.
+[i.]	SMART AD VIEWER allows the users to view their Inbox Statistics (of  Total Read and Unread emails), of all the added GMAIL email accounts via a table.
+[j.]	Software applications needed pre-installed prior to the installation of SMART AD VIEWER:                       
+	(i)  A PDF Reader is required to read the Tutorial Document, and                                                                
+	(ii) Adobe Flash Player is required to play the audio-visual content of the ad being displayed in the AdTab.
+		
+Support Policy Descriptions
+	
+In accordance with the terms of this Development and Technical Support Agreement, the DEVELOPER will furnish one or more of the following support services for the SOFTWARE.  FSI support is required.
+
+Support Policy #1: Installation and Basic Operation (Required)
+Support for the proper installation of the current release of the SOFTWARE, and any subsequent patches or updates to the version for the CLIENT.  At this support level, the DEVELOPER will ensure that the CLIENT’s SOFTWARE installation and the SOFTWARE should be completely functional.
+	
+Support Policy #2: Error-Correction (Optional)
+Error-Correction Support for proper functioning of the copy of CLIENTs SOFTWARE. As and when the CLIENT’s SOFTWARE is not in proper operation, the CLIENT will contact, via the Support mechanism provided by the SELLER, the SELLER. The SELLER upon receiving such support request will notify the DEVELOPER for assisting the CLIENT in resolution of the error. 
+	
+Support Policy #3: REASONABLE EFFORTS for resolution of Technical Issues: 
+The DEVELOPER shall invest REASONABLE EFFORTS in restoring the SOFTWARE at CLIENT’S computer system, to a Proper Operating Condition, which will not include in Modification of the SOFTWARE’s Source Code. A Re-Installation of the SOFTWARE is suggested.
+
+Support Policy #4: Application Modification Support (Optional)
+
+Support Policy #1 and #2 are aimed at assisting the CLIENT with the use of the SOFTWARE. Troubleshooting assistance and log file examination are included.  In the event a CLIENT while using the SOFTWARE uncovers a previously undocumented limitation or bug in SOFTWARE, the DEVELOPER will provide a suitable work-around or patch to allow the SOFTWARE to function. However, the DEVELOPER is under no obligation to re-write or otherwise edit portions of the SOFTWARE’s source code.
+	
+Support Policy #5: Customised Copy of the SOFTWARE: 
+If and when any CLIENT requests a Customised Copy of the SOFTWARE to the SELLER, the SELLER shall forward such requests to the DEVELOPER; any applicable charges will be the sole decision of the DEVELOPER and shall be received by the DEVELOPER through its own method of receiving the payment.
+Support Policy #7: Technical Support chargeable per request after Free Technical Support Period
+Every CLIENT is entitled to Free Technical Support of the SOFTWARE, for a period of two years from FSI. After the end of the before mentioned duration, the CLIENT will have to pay fifteen dollars (USD $15) for each subsequent request of required support, as Technical Support Charge.
+
+
+Timeliness of Incident Resolution
+
+DEVELOPER shall use REASONABLE EFFORT (as stated in Support Policy #3) to provide modifications or additions to correct errors in the SOFTWARE reported by SELLER under the conditions described in Section 5, “SELLER Support.” Upon receipt of notice of an error, DEVELOPER will assign a priority level as determined by the SELLER to the error according to the following criteria:
+
+Priority A – An error that results in the SOFTWARE being substantially or completely nonfunctional or inoperative.
+
+Priority B – An error that results in the SOFTWARE operating or performing other than as represented in the Documentation, but which does not have a material adverse impact on the performance of the SOFTWARE.
+
+DEVELOPER will make REASONABLE EFFORT to correct the error or provide a work-around solution for each priority level and, if a work-around is the immediate solution, will make reasonable efforts to provide a final resolution of the error.  REASONABLE EFFORT will be made to respond to the incident within the following time frames after receiving notice and sufficient information and support from the SELLER:
+
+Priority Level		Correction or Work-Around	If Work-Around, Final Resolution
+          A			2 business days    		1 business day
+          B			7 business days   		1 business day	
+
+New Releases 
+The DEVELOPER shall be responsible for providing technical support and correcting errors for the most recent release of the SOFTWARE provided to SELLER; additionally, the DEVELOPER shall continue to support the two (2) immediately prior releases for a reasonable period, not to exceed three (3) months.
+
+THESE ARE THE EXCERPTS FROM THE AGREEMENT BETWEEN THE MENTIONED PARTIES AND PERTAIN TO THE SERVICES BEING OFFERED TO THE END USER.
+
+

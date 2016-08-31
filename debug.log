@@ -1,0 +1,217 @@
+[CEF Python] Initialize() called
+[CEF Python] CefExecuteProcess(): exitCode = -1
+[CEF Python] CefInitialize()
+[CEF Python] App_OnBeforeCommandLineProcessing_BrowserProcess()
+[CEF Python] App: Command line string for the browser process: "I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version\SmartAdViewer.exe" --browser-subprocess-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version/subprocess" --lang=en-US --log-file="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version\debug.log" --log-severity=info --enable-release-dcheck --resources-dir-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version" --locales-dir-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version/locales" --remote-debugging-port=60451 --no-sandbox --disable-javascript-open-windows
+[CEF Python] BrowserProcessHandler_OnBeforeChildProcessLaunch()
+[CEF Python] Switch already set, ignoring: disable-javascript-open-windows
+[CEF Python] BrowserProcessHandler_OnBeforeChildProcessLaunch()
+[CEF Python] CreateBrowserSync() called
+[CEF Python] navigateUrl: about:None
+[CEF Python] CefBrowser::CreateBrowserSync()
+[CEF Python] App: Browser: OnAfterCreated(): auto_zooming = system_dpi
+
+[CEF Python] App: Browser: SetBrowserDpiSettings: DPI=96 zoom=0
+
+[CEF Python] GetPyBrowser(): creating new PyBrowser, browserId=1
+[CEF Python] BrowserProcessHandler_OnBeforeChildProcessLaunch()
+[CEF Python] CefBrowser::CreateBrowserSync() succeeded
+[CEF Python] App: Command line string for the renderer process: "I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version/subprocess" --type=renderer --no-sandbox --lang=en-US --enable-release-dcheck --lang=en-US --locales-dir-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version/locales" --log-file="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version\debug.log" --log-severity=info --resources-dir-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version" --disable-javascript-open-windows --disable-webgl --disable-pepper-3d --disable-gl-multisampling --disable-accelerated-compositing --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel="4216.1.1412110174\44169761" /prefetch:673131151
+[0413/094655:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/094655:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] V8ContextHandler_OnContextCreated()
+[CEF Python] App: Renderer: OnContextReleased()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextReleased
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] V8ContextHandler_OnContextReleased()
+[CEF Python] del g_pyFrames[1#1]
+[CEF Python] App: Browser: OnProcessMessageReceived(): RemovePythonCallbacksForFrame
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] V8ContextHandler_OnContextCreated()
+[0413/094702:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/094702:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/094712:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/094712:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/094914:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/094914:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/094925:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/094925:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/095603:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/095603:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/095614:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/095614:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/095646:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/095646:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/095656:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/095656:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/095731:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/095731:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/095742:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/095742:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[CEF Python] del g_pyFrames[1#1]
+[CEF Python] del g_pyFrames[1#-4]
+[CEF Python] RemovePyBrowser: releasing shared request context
+[CEF Python] del g_pyBrowsers[1]
+[CEF Python] App: Renderer: OnContextReleased()
+[CEF Python] CreateBrowserSync() called
+[CEF Python] App: Renderer: OnBrowserDestroyed()
+[CEF Python] navigateUrl: about:None
+[CEF Python] CefBrowser::CreateBrowserSync()
+[CEF Python] App: Browser: OnAfterCreated(): auto_zooming = system_dpi
+
+[CEF Python] GetPyBrowser(): creating new PyBrowser, browserId=2
+[CEF Python] BrowserProcessHandler_OnBeforeChildProcessLaunch()
+[CEF Python] CefBrowser::CreateBrowserSync() succeeded
+[CEF Python] App: Command line string for the renderer process: "I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version/subprocess" --type=renderer --no-sandbox --lang=en-US --enable-release-dcheck --lang=en-US --locales-dir-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version/locales" --log-file="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version\debug.log" --log-severity=info --resources-dir-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version" --disable-javascript-open-windows --disable-webgl --disable-pepper-3d --disable-gl-multisampling --disable-accelerated-compositing --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel="4216.2.1565218731\308052070" /prefetch:673131151
+[0413/100142:INFO:chrome_scheme_handler.cc(219)] Reguest for unknown chrome resource: chrome://none/
+[0413/100142:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0413/100142:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] V8ContextHandler_OnContextCreated()
+[0413/100145:INFO:CONSOLE(21)] "JQMIGRATE: Logging is active", source: http://code.jquery.com/jquery-migrate-1.2.1.js (21)
+[0413/100145:INFO:CONSOLE(41)] "JQMIGRATE: jQuery.browser is deprecated", source: http://code.jquery.com/jquery-migrate-1.2.1.js (41)
+[0413/100146:INFO:CONSOLE(86)] "Uncaught TypeError: Object function (a,b){return new e.fn.init(a,b,h)} has no method 'cookie'", source: http://listvolta.com/members/earn.php?fdf39bf9609508f650bf&lv1989 (86)
+[CEF Python] CreateBrowserSync() called
+[CEF Python] navigateUrl: about:None
+[CEF Python] CefBrowser::CreateBrowserSync()
+[CEF Python] App: Browser: OnAfterCreated(): auto_zooming = system_dpi
+
+[CEF Python] GetPyBrowser(): creating new PyBrowser, browserId=3
+[CEF Python] BrowserProcessHandler_OnBeforeChildProcessLaunch()
+[CEF Python] CefBrowser::CreateBrowserSync() succeeded
+[CEF Python] App: Command line string for the renderer process: "I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version/subprocess" --type=renderer --no-sandbox --lang=en-US --enable-release-dcheck --lang=en-US --locales-dir-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version/locales" --log-file="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version\debug.log" --log-severity=info --resources-dir-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version" --disable-javascript-open-windows --disable-webgl --disable-pepper-3d --disable-gl-multisampling --disable-accelerated-compositing --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel="4216.3.468076506\945075399" /prefetch:673131151
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] V8ContextHandler_OnContextCreated()
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] V8ContextHandler_OnContextCreated()
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] V8ContextHandler_OnContextCreated()
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] V8ContextHandler_OnContextCreated()
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] V8ContextHandler_OnContextCreated()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] V8ContextHandler_OnContextCreated()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] V8ContextHandler_OnContextCreated()
+[CEF Python] BrowserProcessHandler_OnBeforeChildProcessLaunch()
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] V8ContextHandler_OnContextCreated()
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] V8ContextHandler_OnContextCreated()
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] V8ContextHandler_OnContextCreated()
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] V8ContextHandler_OnContextCreated()
+[CEF Python] App: Renderer: OnContextReleased()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextReleased
+[CEF Python] V8ContextHandler_OnContextReleased()
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] del g_pyFrames[3#2]
+[CEF Python] App: Browser: OnProcessMessageReceived(): RemovePythonCallbacksForFrame
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] V8ContextHandler_OnContextCreated()
+[CEF Python] CreateBrowserSync() called
+[CEF Python] navigateUrl: about:None
+[CEF Python] CefBrowser::CreateBrowserSync()
+[CEF Python] App: Browser: OnAfterCreated(): auto_zooming = system_dpi
+
+[CEF Python] GetPyBrowser(): creating new PyBrowser, browserId=4
+[CEF Python] BrowserProcessHandler_OnBeforeChildProcessLaunch()
+[CEF Python] CefBrowser::CreateBrowserSync() succeeded
+[CEF Python] App: Command line string for the renderer process: "I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version/subprocess" --type=renderer --no-sandbox --lang=en-US --enable-release-dcheck --lang=en-US --locales-dir-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version/locales" --log-file="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version\debug.log" --log-severity=info --resources-dir-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version" --disable-javascript-open-windows --disable-webgl --disable-pepper-3d --disable-gl-multisampling --disable-accelerated-compositing --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel="4216.5.51008609\191271021" /prefetch:673131151
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] V8ContextHandler_OnContextCreated()
+[CEF Python] CreateBrowserSync() called
+[CEF Python] navigateUrl: about:None
+[CEF Python] CefBrowser::CreateBrowserSync()
+[CEF Python] App: Browser: OnAfterCreated(): auto_zooming = system_dpi
+
+[CEF Python] GetPyBrowser(): creating new PyBrowser, browserId=5
+[CEF Python] BrowserProcessHandler_OnBeforeChildProcessLaunch()
+[CEF Python] CefBrowser::CreateBrowserSync() succeeded
+[CEF Python] App: Command line string for the renderer process: "I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version/subprocess" --type=renderer --no-sandbox --lang=en-US --enable-release-dcheck --lang=en-US --locales-dir-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version/locales" --log-file="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version\debug.log" --log-severity=info --resources-dir-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version" --disable-javascript-open-windows --disable-webgl --disable-pepper-3d --disable-gl-multisampling --disable-accelerated-compositing --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel="4216.6.203940268\1532308936" /prefetch:673131151
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] V8ContextHandler_OnContextCreated()
+[CEF Python] del g_pyFrames[2#-4]
+[CEF Python] del g_pyFrames[2#1]
+[CEF Python] del g_pyBrowsers[2]
+[CEF Python] App: Renderer: OnContextReleased()
+[CEF Python] App: Renderer: OnBrowserDestroyed()
+[CEF Python] del g_pyFrames[3#11]
+[CEF Python] del g_pyFrames[3#10]
+[CEF Python] del g_pyFrames[3#9]
+[CEF Python] del g_pyFrames[3#8]
+[CEF Python] del g_pyFrames[3#4]
+[CEF Python] del g_pyFrames[3#5]
+[CEF Python] del g_pyFrames[3#-4]
+[CEF Python] del g_pyFrames[3#7]
+[CEF Python] del g_pyFrames[3#6]
+[CEF Python] del g_pyFrames[3#1]
+[CEF Python] del g_pyFrames[3#3]
+[CEF Python] del g_pyFrames[3#2]
+[CEF Python] del g_pyBrowsers[3]
+[CEF Python] del g_pyFrames[4#-4]
+[CEF Python] del g_pyFrames[4#1]
+[CEF Python] del g_pyBrowsers[4]
+[CEF Python] App: Renderer: OnContextReleased()
+[CEF Python] del g_pyFrames[5#-4]
+[CEF Python] del g_pyFrames[5#1]
+[CEF Python] RemovePyBrowser: releasing shared request context
+[CEF Python] del g_pyBrowsers[5]
+[CEF Python] App: Renderer: OnContextReleased()
+[CEF Python] App: Renderer: OnBrowserDestroyed()
+[CEF Python] Initialize() called
+[CEF Python] CefExecuteProcess(): exitCode = -1
+[CEF Python] CefInitialize()
+[CEF Python] App_OnBeforeCommandLineProcessing_BrowserProcess()
+[CEF Python] App: Command line string for the browser process: "I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version\SmartAdViewer.exe" --browser-subprocess-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version/subprocess" --lang=en-US --log-file="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version\debug.log" --log-severity=info --enable-release-dcheck --resources-dir-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version" --locales-dir-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version/locales" --remote-debugging-port=61494 --no-sandbox --disable-javascript-open-windows
+[CEF Python] BrowserProcessHandler_OnBeforeChildProcessLaunch()
+[CEF Python] Switch already set, ignoring: disable-javascript-open-windows
+[CEF Python] BrowserProcessHandler_OnBeforeChildProcessLaunch()
+[CEF Python] CreateBrowserSync() called
+[CEF Python] navigateUrl: about:None
+[CEF Python] CefBrowser::CreateBrowserSync()
+[CEF Python] App: Browser: OnAfterCreated(): auto_zooming = system_dpi
+
+[CEF Python] App: Browser: SetBrowserDpiSettings: DPI=96 zoom=0
+
+[CEF Python] GetPyBrowser(): creating new PyBrowser, browserId=1
+[CEF Python] BrowserProcessHandler_OnBeforeChildProcessLaunch()
+[CEF Python] CefBrowser::CreateBrowserSync() succeeded
+[CEF Python] App: Command line string for the renderer process: "I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version/subprocess" --type=renderer --no-sandbox --lang=en-US --enable-release-dcheck --lang=en-US --locales-dir-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version/locales" --log-file="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version\debug.log" --log-severity=info --resources-dir-path="I:\pyPrgrms\trailVersion\SAV 32Bit Lifetime Version" --disable-javascript-open-windows --disable-webgl --disable-pepper-3d --disable-gl-multisampling --disable-accelerated-compositing --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel="9112.1.529159009\56167531" /prefetch:673131151
+[0831/145628:INFO:chrome_scheme_handler.cc(219)] Reguest for unknown chrome resource: chrome://none/
+[0831/145628:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0831/145629:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0831/145629:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[CEF Python] App: Renderer: OnContextCreated()
+[CEF Python] App: Browser: OnProcessMessageReceived(): OnContextCreated
+[CEF Python] V8ContextHandler_OnContextCreated()
+[0831/145643:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0831/145643:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[0831/145643:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(263)] Error fetching PAC URL from DHCP: 2
+[CEF Python] del g_pyFrames[1#1]
+[CEF Python] del g_pyFrames[1#-4]
+[CEF Python] RemovePyBrowser: releasing shared request context
+[CEF Python] del g_pyBrowsers[1]
+[CEF Python] App: Renderer: OnContextReleased()
+[CEF Python] Shutdown()
+[0831/145654:ERROR_REPORT:browser_main.cc(126)] Check failed: browser_contexts_.empty(). 
+[CEF Python] App: Renderer: OnBrowserDestroyed()
+[0831/145655:ERROR_REPORT:context.cc(140)] Check failed: false. context not valid
